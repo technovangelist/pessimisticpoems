@@ -1,4 +1,4 @@
-baseurl             = "/"
+baseurl             = "http://pessimisticpoems.com/"
 languageCode        = "en-us"
 title               = "Poems for Pessimistic Seniors"
 theme               = "introduction"

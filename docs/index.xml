@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poems for Pessimistic Seniors</title>
-    <link>/</link>
+    <link>http://pessimisticpoems.com/</link>
     <description>Recent content on Poems for Pessimistic Seniors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 May 2017 12:57:36 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pessimisticpoems.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reflections on Chair Yoga</title>
-      <link>/blog/reflections-on-chair-yoga/</link>
+      <link>http://pessimisticpoems.com/blog/reflections-on-chair-yoga/</link>
       <pubDate>Sun, 14 May 2017 12:57:36 -0400</pubDate>
       
-      <guid>/blog/reflections-on-chair-yoga/</guid>
+      <guid>http://pessimisticpoems.com/blog/reflections-on-chair-yoga/</guid>
       <description>&lt;p&gt;My chair yoga is for those&lt;br /&gt;
 who can no longer touch their toes.&lt;br /&gt;
 &lt;br /&gt;
@@ -26,10 +26,10 @@ And sit in our allotted place.&lt;/p&gt;</description>
     
     <item>
       <title>about</title>
-      <link>/about/</link>
+      <link>http://pessimisticpoems.com/about/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://pessimisticpoems.com/about/</guid>
       <description>This is your about me page. Use it to write up a witty and engaging description of yourself.
 You can include your hobbies, favorite foods, photos of your ex-lovers, anything you like.
 You can even include some ipsums:

@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/blog/reflections-on-chair-yoga/</loc>
+    <loc>http://pessimisticpoems.com/blog/reflections-on-chair-yoga/</loc>
     <lastmod>2017-05-14T12:57:36-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://pessimisticpoems.com/about/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>http://pessimisticpoems.com/blog/</loc>
     <lastmod>2017-05-14T12:57:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://pessimisticpoems.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://pessimisticpoems.com/</loc>
     <lastmod>2017-05-14T12:57:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://pessimisticpoems.com/tags/</loc>
     <priority>0</priority>
   </url>
   
