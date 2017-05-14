@@ -1,0 +1,43 @@
+<hr>
+<nav class="nav nav-center">
+    <span id="nav-toggle" class="nav-toggle"  onclick="document.getElementById('nav-menu').classList.toggle('is-active');">
+      <span></span>
+      <span></span>
+      <span></span>
+    </span>
+    <div id="nav-menu" class="nav-left nav-menu">
+      <span class="nav-item">
+        <a href="/">Main</a>
+      </span>
+       {{ if .Site.Params.showabout }}
+      <span class="nav-item">
+        <a href="/#about">About</a>
+      </span>
+       {{ end }}
+    {{ if .Site.Params.showprojects }}
+      <span class="nav-item">
+        <a href="/#projects">Projects</a>
+      </span>
+    {{ end }}
+    {{ if .Site.Params.showallposts }}
+      <span class="nav-item">
+        <a href="/#blog">Back to blog</a>
+      </span>
+    {{ else }}
+      <span class="nav-item">
+        <a href="/blog">Back to blog</a>
+      </span>
+    {{ end }}
+     {{ if .Site.Params.showcontact }}
+      <span class="nav-item">
+        <a href="/#contact">Contact</a>
+      </span>
+       {{ end }}
+    {{ if .Site.RSSLink }}
+      <span class="nav-item">
+        <a href="{{ .Site.RSSLink }}"><i class="fa fa-rss"></i></a>
+      </span>
+    {{ end }}
+    </div>
+</nav>
+<hr>
