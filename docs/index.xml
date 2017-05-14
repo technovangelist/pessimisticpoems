@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poems for Pessimistic Seniors</title>
+    <link>/</link>
+    <description>Recent content on Poems for Pessimistic Seniors</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2017 12:57:36 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reflections on Chair Yoga</title>
+      <link>/blog/reflections-on-chair-yoga/</link>
+      <pubDate>Sun, 14 May 2017 12:57:36 -0400</pubDate>
+      
+      <guid>/blog/reflections-on-chair-yoga/</guid>
+      <description>&lt;p&gt;My chair yoga is for those&lt;br /&gt;
+who can no longer touch their toes.&lt;br /&gt;
+&lt;br /&gt;
+We hobble in on cane and brace&lt;br /&gt;
+And sit in our allotted place.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is your about me page. Use it to write up a witty and engaging description of yourself.
+You can include your hobbies, favorite foods, photos of your ex-lovers, anything you like.
+You can even include some ipsums:
+Cat ipsum dolor sit amet, i cry and cry and cry unless you pet me, and then maybe i cry just for fun Gate keepers of hell for flop over sniff other cat&amp;rsquo;s butt and hang jaw half open thereafter.</description>
+    </item>
+    
+  </channel>
+</rss>
