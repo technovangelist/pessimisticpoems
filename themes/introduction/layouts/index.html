@@ -31,7 +31,7 @@
         </div>
     </div> <!-- Hero body title end -->
     <!-- Hero foot has nav bar -->
-    <!--
+
     <div class="hero-foot {{ if .Site.Params.fadein }}fade-in three{{ end }}">
     <hr>
     <nav class="nav-center">
@@ -49,7 +49,7 @@
         {{ end }}
     </nav>
     <hr>
-    </div> --><!-- Done with nav bar -->
+    </div> <!-- Done with nav bar -->
 </div><!-- Done with Hero -->
 </div><!-- End of top section -->
 
@@ -63,8 +63,8 @@
     <h2 class="title is-2 has-text-centered">About</h2>
 
         <div class="columns"><!-- Avatar and about.md side by side except mobile -->
-            <div class="column is-one-third has-text-centered"><img class="img-responsive avatar" src="/{{ .Site.Params.avatar }}" alt="My profile picture.">
-            </div>
+            <!--<div class="column is-one-third has-text-centered"><img class="img-responsive avatar" src="/{{ .Site.Params.avatar }}" alt="My profile picture.">
+            </div>-->
             <div class="column markdown">
                 {{ range .Data.Pages }}
                     {{if eq .Title "about" }}

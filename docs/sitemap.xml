@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://pessimisticpoems.com/blog/a-childs-view-of-war/</loc>
+    <lastmod>2017-05-16T21:48:55-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pessimisticpoems.com/blog/fun-with-breast-cancer/</loc>
     <lastmod>2017-05-14T22:07:52-04:00</lastmod>
   </url>
@@ -18,7 +23,7 @@
   
   <url>
     <loc>http://pessimisticpoems.com/blog/</loc>
-    <lastmod>2017-05-14T22:07:52-04:00</lastmod>
+    <lastmod>2017-05-16T21:48:55-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,7 +34,7 @@
   
   <url>
     <loc>http://pessimisticpoems.com/</loc>
-    <lastmod>2017-05-14T22:07:52-04:00</lastmod>
+    <lastmod>2017-05-16T21:48:55-04:00</lastmod>
     <priority>0</priority>
   </url>
   
