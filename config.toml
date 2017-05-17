@@ -42,7 +42,7 @@ showlatest      = true # Show latest blog post summary
 sharebuttons    = true # On post pages, show share this social buttons
 
 showcontact     = false
-showabout       = false
+showabout       = true
 showprojects    = false # Show Projects section on home page
 
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.

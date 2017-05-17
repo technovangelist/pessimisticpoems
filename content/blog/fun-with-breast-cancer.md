@@ -1,6 +1,6 @@
 +++
 date = "2017-05-14T22:07:52-04:00"
-title = "fun with breast cancer"
+title = "Fun With Breast Cancer"
 +++
 I'm sitting on the table
 And the doctor looks at me
