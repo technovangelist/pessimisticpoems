@@ -8,7 +8,7 @@ canonifyurls        = true
 contentdir          = "content"
 layoutdir           = "layouts"
 publishdir          = "docs"
-# disqusshortname   = "xxx" # Enable Disqus for comments
+disqusshortname   = "ppoems" # Enable Disqus for comments
 googleAnalytics   = "UA-99145474-1"
 
 [permalinks]
