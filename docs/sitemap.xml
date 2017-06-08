@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://pessimisticpoems.com/blog/wedding-congratulations/</loc>
+    <lastmod>2017-06-08T17:47:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pessimisticpoems.com/blog/the-swimsuit/</loc>
+    <lastmod>2017-06-08T17:42:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pessimisticpoems.com/blog/hmos/</loc>
+    <lastmod>2017-06-08T17:41:03-04:00</lastmod>
+  </url>
   
   <url>
     <loc>http://pessimisticpoems.com/blog/memories-stirred-by-the-nightly-news/</loc>
@@ -48,7 +64,7 @@
   
   <url>
     <loc>http://pessimisticpoems.com/blog/</loc>
-    <lastmod>2017-05-24T04:21:59-06:00</lastmod>
+    <lastmod>2017-06-08T17:47:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,7 +75,7 @@
   
   <url>
     <loc>http://pessimisticpoems.com/</loc>
-    <lastmod>2017-05-24T04:21:59-06:00</lastmod>
+    <lastmod>2017-06-08T17:47:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
