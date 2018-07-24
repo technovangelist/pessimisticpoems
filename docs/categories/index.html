@@ -14,10 +14,10 @@
 <title>
 
 
-     404 Page not found 
+     Categories 
 
 </title>
-<link rel="canonical" href="">
+<link rel="canonical" href="http://pessimisticpoems.com/categories/">
 
 
 
@@ -40,7 +40,7 @@
 
 
     
-    <link rel="stylesheet" href="http://pessimisticpoems.com/css/light-style.css?t=1532459792">
+    <link rel="stylesheet" href="http://pessimisticpoems.com/css/light-style.css?t=1532459111">
     
 
 
@@ -55,16 +55,20 @@
 
 
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-99145474-1', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-99145474-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
 
 
-  <link href="http://pessimisticpoems.com/index.xml" rel="alternate" type="application/rss+xml" title="Poems for Pessimistic Seniors" />
+  <link href="http://pessimisticpoems.com/categories/index.xml" rel="alternate" type="application/rss+xml" title="Poems for Pessimistic Seniors" />
 
 
 
@@ -75,12 +79,12 @@ ga('send', 'pageview');
 
 <div class="section" id="top">
 
-    <div class="container hero is-medium has-text-centered  fade-in one ">
-    <h1 class="bold-title is-1">404</h1>
+    <div class="container hero  fade-in one ">
+    <h1 class="bold-title is-1">Poems for Pessimistic Seniors</h1>
     </div>
 
-
-<div class="section  fade-in two ">
+    
+    <div class="section no-padding  fade-in two ">
 
     <div class="container">
     <hr>
@@ -100,11 +104,6 @@ ga('send', 'pageview');
       </span>
        
     
-    
-      <span class="nav-item">
-        <a href="http://pessimisticpoems.com/#blog">Back to blog</a>
-      </span>
-    
      
     
       <span class="nav-item">
@@ -116,11 +115,26 @@ ga('send', 'pageview');
 <hr>
     </div>
 
-    <div class="container  fade-in two  top-pad">
-        Oops! Either you've found a bug (in which case, <a href="mailto:">please tell me</a>) or you're just making things up. This page doesn't exist!
+    <div class="container">
+
+    
+    <h2 class="title is-2 top-pad">Latest Post</h2>
+        
+    
+
+    <h2 class="title is-2 top-pad">All Posts</h2>
+        <ul>
+        
+        </ul>
+
     </div>
 
-<div class="top-pad"><hr></div>
+<div class="container has-text-centered top-pad">
+<hr>
+<a href="http://pessimisticpoems.com/categories/#top"><i class="fa fa-arrow-up"></i></a>
+<hr>
+</div>
+
 <div class="section" id="footer">
     <div class="container has-text-centered">
         
@@ -130,3 +144,16 @@ ga('send', 'pageview');
     </div>
 </div>
 </div>
+</div>
+
+
+<script>
+$('a[href^="http:\/\/pessimisticpoems.com\/categories\/#"]').click(function(e) {
+    e.preventDefault();
+    var target = this.hash;
+    $('html, body').animate({
+    scrollTop: $(target).offset().top
+    }, 500);
+    return false;
+})
+</script>
